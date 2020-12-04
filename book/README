@@ -1,0 +1,19 @@
+# WeThinkCode_Group_Project
+
+This is Team 22 Group Project for WE Think Code Semester 1
+
+Code Clinic Booking system
+
+To run please follow the instructions
+
+1. Download or clone git repo
+
+2. extract book.zip to Downloads folder
+
+2. cd ~/Download/book 
+
+3. run ./setup.sh on terminal
+
+4. cd
+
+5. clinic 
